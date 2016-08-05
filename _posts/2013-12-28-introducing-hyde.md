@@ -3,7 +3,7 @@ layout: post
 title: NEW WEB SITE
 ---
 
-New website thanks to the amazing [Nick](http://www.njtierney.com/about/"Title")
+New website thanks to the amazing [Nick](http://www.njtierney.com/about/)
 
 Still some works to do but it is getting better !!!
 
