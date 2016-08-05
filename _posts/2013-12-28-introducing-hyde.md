@@ -10,3 +10,5 @@ Remember to read the documentation on [github pages](https://pages.github.com/).
 And to read more about [this swanky new theme, hyde](https://github.com/poole/hyde#readme).
 
 Cheers.
+
+Thanks mate
