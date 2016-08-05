@@ -92,6 +92,7 @@ distributions.  Statistics and Probability Letters 104 87-93 (2015).
 ## Publications: scholarly books
 
 [B4] Commenges D., Jacqmin-Gadda H.(eds), Alioum A., Joly P., Leffondre K., Liquet B., Proust-Lima C., Rondeau V., and Thiébaut R. Dynamical Biostatistical models, Series: Chapman & Hall/CRC Biostatistics Series, (2015).
+
 [B3] Commenges D., Jacqmin-Gadda H.(eds), Alioum A., Joly P., Leffondre K., Liquet B., Proust-Lima C., Rondeau V., and Thiébaut R. Modeles Biostatistiques pour l'Epidémiologie.  De Boeck Superieur, (2015)..
 
 [B2] Lafaye de Micheaux P., Drouilhet R., and Liquet B., Le logiciel R, Maîtriser le langage, Effectuer desanalyses statistiques. 565 pages. Springer, 2011.
@@ -107,17 +108,17 @@ distributions.  Statistics and Probability Letters 104 87-93 (2015).
 [C1] Liquet B. and Commenges D., Selecting a semi-parametric estimator by the expected log-likelihood. In Probability, Statistics and Modelling in Public Health, Springer, 332-349, (2005).
 
 
-
 ## Other publication: articles submitted or in revision
-
 
 [S2] Gonzalez I., Liquet B., Dejean S. and Le Cao K., Omics Data Integration and Exploration with the mixOmics Package. Submitted.
 
 [S1] Chong H., Cordeaux Y., Froen F., Richardson S., Liquet B., Charnock-Jones S. and Smith G. C., Uterine aging and exposure to female sex hormones. In minor revision.
 
-Invited conferences
+## Invited conferences
 
-[IV6] 2014 (December), Multivariate approaches: Dimension reduction for big data sets. Short course on “Statistical approaches to characterize the exposome: Overview and Perspective”, organized Imperial College London, England.
+[IV7] 2015 (December), Multivariate approaches: Dimension reduction for big data sets. Short course on "Statistical approaches to characterize the exposome: Overview and Perspective'', organized Imperial College London, England.
+
+[IV6] 2014 (December), Multivariate approaches: Dimension reduction for big data sets. Short course on "Statistical approaches to characterize the exposome: Overview and Perspective", organized Imperial College London, England.
 
 [IV5] 2014 (November), R2GUESS: A Graphic Processing Unit-Based R Package for Bayesian Variable Selection Regression of Multivariate Responses, Bayes on the Beach conference organized in Gold Coast, Australia.
 
@@ -129,9 +130,31 @@ Invited conferences
 
 [IV1] 2009 (October), Choix d’estimateurs basés sur des observations différentes. GDR “Statistique et Santé”, Université Paris-Descartes.
 
-Invited seminar (2011-2015)
+## Invited seminar (2011-2015)
 
-IS11] 2015 (January) R2GUESS: A Graphic Processing Unit-Based R Package for Bayesian Variable Selection Regression of Multivariate Responses. Queensland Brain Institute, Australia.
+[IS22] 2016 (February) Statistical Methods for analysing High-dimensional data and Massive Data. ACEMS Seminar, Melbourne.
+
+[IS21] 2016 (February) Type-II Generalized Family-Wise Error Rate Formulas with Application to Sample Size Determination. Victorian Centre For Biostatistics Seminar, Melbourne.
+
+[IS20]  2016 (February) Semi-parametric regression approach for massive data. Maths seminar series at Queensland University of Technology.
+
+[IS19]  2016 (February) Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context. SSAI Queensland Branch Event.
+
+[IS18]  2015 (November) Statistical Methods for the Analysis of High-dimensional data Applied in Biostatistics Context. MIRA, Milieux et ressources aquatiques. Universit\'e de Pau et Pays de l'Adour.
+
+[IS17] 2015 (October) Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context. ISPED, University of Bordeaux.
+
+[IS16] 2015 (October) Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context. LMAP, Universit\'e de Pau et Pays de l'Adour.
+
+[IS15] 2015 (August) BIG-SIR a Sliced Inverse Regression Approach for Massive Data. ACEMS seminar, Queensland University of Technology.
+
+[IS14] 2015 (August) Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context. Queensland Brain Institute, Australia.
+
+[IS13] 2015 (June) Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context. Imperial College, London.
+
+[IS12] 2015 (June) Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context. ACEMS seminar, University of Queensland.
+
+[IS11] 2015 (January) R2GUESS: A Graphic Processing Unit-Based R Package for Bayesian Variable Selection Regression of Multivariate Responses. Queensland Brain Institute, Australia.
 
 [IS10] 2014 (December) Strategies to analyse ’omics’ data. Grenoble University, France.
 
@@ -154,6 +177,12 @@ IS11] 2015 (January) R2GUESS: A Graphic Processing Unit-Based R Package for Baye
 [IS1] 2011 (September) On Akaike and likelihood cross-validation criteria for model selection. Department of Biostatistics. University of Copenhagen.
 
 ## International and national communications, proceeding (2007-2014)
+
+[CO28] Liquet B., Bayesian Variable selection regression of multivariate responses for group data, ISBA 2016 World Meeting International Society for Bayesian Analysis,  Sardinia (Italy) June 2016.
+
+[CO27] Liquet B., Lafaye de Micheaux P, Hejblum B., Thiebaut R., Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context., The R User Conference 2016,  Stanford, California (US), June 2016.
+
+[CO26] Liquet B., and Saracco J., BIG-SIR a Sliced Inverse Regression Approach for Massive Data, Quatri\`emes rencontres R, Grenoble (France), June 2015.
 
 [CO25] Lafaye de Micheaux P., Liquet B., Perminder S., Anbupalam T. and Wei W., New Statistical tools to study heritabiliy of the brain, Australian Statistical Conference in conjunction with the Institute of Mathematical Statistics Annual Meeting, Sydney (Australia), July 2014.
 
