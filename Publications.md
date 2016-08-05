@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+## Journal Publications
+
 [A41] Proust-Lima C., Philipps V., Liquet B., Estimation of Extended Mixed Models Using Latent Classes and Latent Processes: the R package lcmm. Journal of Statistical Software (Accepted in 2016).
 
 [A40] Liquet B., and Saracco J., BIG-SIR a Sliced Inverse Regression Approach for Massive Data. Statistics and Its Interface. (2016) In press.
@@ -84,3 +86,123 @@ distributions.  Statistics and Probability Letters 104 87-93 (2015).
 [A2] Liquet B., Sakarovitch C. and Commenges D., Bootstrap choice of estimators in non-parametric families: an extension of EIC. Biometrics 59, 172-178, (2003).
 
 [A1] Liquet B. and Commenges D., Correction of the p-value after multiple coding of an explanatory variable in logistic regression. Statistics in Medicine 20, 2815-2826, (2001).
+
+
+
+## Publications: scholarly books
+
+[B4] Commenges D., Jacqmin-Gadda H.(eds), Alioum A., Joly P., Leffondre K., Liquet B., Proust-Lima C., Rondeau V., and Thiébaut R. Dynamical Biostatistical models, Series: Chapman & Hall/CRC Biostatistics Series, (2015).
+[B3] Commenges D., Jacqmin-Gadda H.(eds), Alioum A., Joly P., Leffondre K., Liquet B., Proust-Lima C., Rondeau V., and Thiébaut R. Modeles Biostatistiques pour l'Epidémiologie.  De Boeck Superieur, (2015)..
+
+[B2] Lafaye de Micheaux P., Drouilhet R., and Liquet B., Le logiciel R, Maîtriser le langage, Effectuer desanalyses statistiques. 565 pages. Springer, 2011.
+
+[B1] Lafaye de Micheaux P., Drouilhet R., and Liquet B., The R software. Fundamentals of Programmingand Statistical Analysis, Springer, in press (accepted February 2013). Translation of [1] with additional chapters.
+
+## Publications: book sections
+
+[C3] Saracco J., Gannoun A., Guinot C. and Liquet B., A semiparametric approach to estimate reference curves for biophysical properties of the skin. In Statistical Methods for Biostatistics and Related Fields. Berlin: Springer, 181-205, (2007).
+
+[C2] Gannoun A., Liquet B., Saracco J. and Wolfgang U., A kernel method in analysis of replicated micro- array experiments. In Statistical Methods for Biostatistics and Related Fields. Berlin: Springer, 45-61, (2007).
+
+[C1] Liquet B. and Commenges D., Selecting a semi-parametric estimator by the expected log-likelihood. In Probability, Statistics and Modelling in Public Health, Springer, 332-349, (2005).
+
+
+
+## Other publication: articles submitted or in revision
+
+
+[S2] Gonzalez I., Liquet B., Dejean S. and Le Cao K., Omics Data Integration and Exploration with the mixOmics Package. Submitted.
+
+[S1] Chong H., Cordeaux Y., Froen F., Richardson S., Liquet B., Charnock-Jones S. and Smith G. C., Uterine aging and exposure to female sex hormones. In minor revision.
+
+Invited conferences
+
+[IV6] 2014 (December), Multivariate approaches: Dimension reduction for big data sets. Short course on “Statistical approaches to characterize the exposome: Overview and Perspective”, organized Imperial College London, England.
+
+[IV5] 2014 (November), R2GUESS: A Graphic Processing Unit-Based R Package for Bayesian Variable Selection Regression of Multivariate Responses, Bayes on the Beach conference organized in Gold Coast, Australia.
+
+[IV4] 2013 (October), Multi-state models and nosocomial infections. Workshop on “dynamic predictions for repeated markers and repeated events: models and validation in cancer”, organized in Bordeaux, France.
+
+[IV3] 2013 (April), Strategies to analyse ’omics’ data: From standard T-tests in genomics to a more general Bayesian approach. workshop Statlearn’13. Bordeaux University (France).
+
+[IV2] 2009 (November), Choice of estimators based on different observations: Modified AIC and LCV criteria. Colloque CRM-ISM-GERAD de Statistique. McGill University (Canada).
+
+[IV1] 2009 (October), Choix d’estimateurs basés sur des observations différentes. GDR “Statistique et Santé”, Université Paris-Descartes.
+
+Invited seminar (2011-2015)
+
+IS11] 2015 (January) R2GUESS: A Graphic Processing Unit-Based R Package for Bayesian Variable Selection Regression of Multivariate Responses. Queensland Brain Institute, Australia.
+
+[IS10] 2014 (December) Strategies to analyse ’omics’ data. Grenoble University, France.
+
+[IS9] 2013 (November) Type-II Generalized Family-Wise Error Rate Formulas with Application to sample Size Determination. Universitas Sebelas Maret, Indonesia.
+
+[IS8] 2012 (April) Multi-state approaches to model nosocomial infection in intensive care units. Universitas Sebelas Maret, Indonesia.
+
+[IS7] 2012 (March) On Akaike and likelihood cross-validation criteria for model selection. Queensland Uni- versity of Technology (QUT), Brisbane.
+
+[IS6] 2012 (March) A novel approach for the integration of repeated measures experiments and biomarker selection . University Queensland Seminar Series - Computational Biology.
+
+[IS5] 2012 (March) Choice of Estimators by Estimating Differences of Expected Kullback-Leibler Risks, Fac- ulty of Science Macquarie University New South Wales.
+
+[IS4] 2012 (March) Multistate approaches to model nosocomial pneumonia disease in intensive care units. The George Institute for Global Health, Sydney.
+
+[IS3] 2012 (March) On Akaike and likelihood cross-validation criteria for model selection. School of Mathe- matics and Statistics. The University of New South Wales, Sydney.
+
+[IS2] 2012 (February) On Akaike and likelihood cross-validation criteria for model selection. Department of Statistics. The University of Auckland.
+
+[IS1] 2011 (September) On Akaike and likelihood cross-validation criteria for model selection. Department of Biostatistics. University of Copenhagen.
+
+## International and national communications, proceeding (2007-2014)
+
+[CO25] Lafaye de Micheaux P., Liquet B., Perminder S., Anbupalam T. and Wei W., New Statistical tools to study heritabiliy of the brain, Australian Statistical Conference in conjunction with the Institute of Mathematical Statistics Annual Meeting, Sydney (Australia), July 2014.
+
+[CO24] Delorme, P., Lafaye de Micheaux P., Liquet, B. and Riou, J., Type-II Generalized Family-Wise Error Rate Formulas with Application to Sample Size Determination, 8th International Conference on Multiple Comparison Procedures, Southampton (England), July 2013.
+
+[CO23] Delorme, P., Lafaye de Micheaux P., Liquet, B. and Riou, J., Package SSDDA : Sample Size Determination and Data Analysis in the context of continuous co-primary endpoints in clinical trials, Deuxièmes rencontres R, Lyon (France), June 2013.
+
+[CO22] Delorme, P., Lafaye de Micheaux P., Liquet, B. and Riou, J., Calcul de taille d’échantillon dans le cadre de critères de jugements multiples avec un contrôle de la r-power et du gFWER, 44 Journées de Statistique, Toulouse (France) Mai 2013.
+
+[CO21] Liquet B., Chadeau-Hyam M., Bottolo L., and Richardson S. R2GUESS: a GPU-based R package for a Bayesian variable selection model accommodating multivariate responses, Statistical Methods for (Post)-Genomics Data 2013, Amsterdam, January 2013.
+
+[CO20] Chavent M., Genuer R., Liquet B., and Saracco J., ClustOfVar: an R package for dimension reduction via clustering of variable. Application to supervised classification and variables selection for omics data (Poster presentation)„Statistical Methods for (Post)-Genomics Data 2013, Amsterdam, January 2013.
+
+[CO19] Liquet B., Chadeau-Hyam M., Bottolo L., and Richardson S., GUESS: GPU-based C++ software for Bayesian variable selection regression of multiple responses (Poster presentation), Australasian Applied Statistics Conference 2012, Queenstown (New Zeland) December 2012.
+
+[CO18] Liquet B., Chadeau-Hyam M., Bottolo L., and Richardson S., GUESS: GPU-based C++ software for Bayesian variable selection regression of multiple responses (Poster presentation), Australasian Applied Statistics Conference 2012, Queenstown (New Zeland) December 2012.
+
+[CO18] Liquet B., Le Cao K., Hocini H., and Thiebaut R., A novel approach for biomarker selection and the integration of repeated measure experiments from two platforms, NZSA 2012 Conference, Dunedin (New Zealand), December 2012.
+
+[CO17] Delorme P., Lafaye de Micheaux P., Liquet B. and Riou J., Power and sample size computation for a control of the “r-power" (Poster presentation), NZSA 2012 Conference, Dunedin (New Zealand), December 2012.
+
+[CO16] Delorme P., Lafaye de Micheaux P., Liquet B. and Riou J., Power and sample size computation for a control of the “r-power" (Poster presentation), NZSA 2012 Conference, Dunedin (New Zealand), December 2012.
+
+[CO15] Liquet B., Le Cao K., Hocini H., and Thiebaut R., A novel approach for biomarker selection and the integration of repeated measure experiments from two platforms, XXVIèmes International Biometric Conference, Kobe (Japan), August 2012.
+
+[CO14] Liquet B., Commenges D. and Proust-lima C., Choice of prognostic estimators in joint models by esti- mating differences of expected conditional Kullback-Leibler risks, Biometrics by the Blowholes, Kiama, New South Wales, December 2011, Australia.
+
+[CO13] Riou J., Liquet B., Correction of the significance level after multiple coding of an explanatory variable in generalized linear model., 7th International Conference on Multiple Comparison Procedures, Washington D.C., USA, August 2011.
+
+[CO12] Liquet B., Proust-Lima C., lcmm: an R package for estimation of latent class mixed models and joint latent class models. The R User Conference 2011. Coventry, UK.
+
+[CO11] Chavent M., Girard S., Kuentz V., Liquet B., Nguyen T. M. N., Saracco J., An adaptive SIR method for block-wise evolving data streams. ASMDA -XIV International Conference, Rome Italy, 2011.
+
+[CO10] Riou J., Liquet B., Méthodes de correction du degré de signification pour une recherche de codage optimal dans un modèle linéaire généralisé 43èmes Journées de Statistique (SFdS), Tunis, Mai 2011.
+
+[CO9] Chavent M., Kuentz V., Liquet B., Saracco J., Classification de variables: le package ClustOfVar. 43èmes Journées de Statistique (SFdS), Tunis, Mai 2011.
+
+[CO8] Liquet B., Choice of estimators based on different observations: Modified AIC and LCV criteria. XXVèmes International Biometric Conference, Florianopolis (Brazil), december 2010.
+
+[CO7] Chavent, M., Kuentz, V., Liquet, B., Saracco, J., Regression inverse par tranches pour une population stratifiee. 42èmes Journées de Statistique (SFdS), Marseille, Mai 2010.
+
+[CO6] Lafaye de Micheaux, P. and Liquet, B., Le Package R ConvergenceConcepts : un nouvel outil graphique pour l’étude de quelques modes de convergence de variables aléatoires, Marseille, Mai 2010.
+
+[CO5] Chavent M., Kuentz V. and Liquet B., Données manquantes en ACM : l’algorithme NIPALS. XVIèmes Rencontres de la Société Francophone de Classification, Grenoble 2009.
+
+[CO4] Liquet B. and Saracco J., A criterion for selecting the number of slices and the dimension of the model in SIR and SAVE approaches. ASMDA -XIII International Conference, Vilnius Lithuania, 2009.
+
+[CO3] Nguile Makao M., Timsit J.F., Coeurjolly J.F., and Liquet B., Prédiction de la pneumonie nosocomiale à l’aide d’un modèle multi-états., XXXXIe Journées de Statistique, Bordeaux, 2009.
+
+[CO2] Chavent M., Liquet B. and Saracco J., Two steps estimation in a multivariate semiparametric sample selection model XXXXe Journées de Statistique, Montréal, 2008.
+
+[CO1] Desjardins S., Desgagné A., Lafaye de Micheaux P., Liquet B., Generalization of the Paired T-Test for the Missing Values Case, Joint Statistical Meeting, Salt Lake City, Poster, 2007.
