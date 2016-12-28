@@ -3,6 +3,9 @@ layout: page
 title: About Me
 ---
 
+<img src="https://sites.google.com/site/benoitliquet/_/rsrc/1390978849813/home/P1020486.JPG" alt="R conf Anglet">
+
+
 # Position
 - Professor at University of Pau and Pays de l'Adour
 - Member of the LABORATORY OF MATHEMATICS AND THEIR APPLICATIONS OF PAU - UMR CNRS 5142 
@@ -16,7 +19,7 @@ Allée du Parc Montaury,
 
 # Contact 
 
-- Lacoated in Building: Bat 1, 2 Floor
+- Located in Building: Bat 1, 2 Floor
 - Phone: +33 5 59 57 44 01
 - E-mail: benoit.liquet@univ-pau.fr
 
