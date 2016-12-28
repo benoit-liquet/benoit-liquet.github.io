@@ -4,20 +4,21 @@ title: Publications
 ---
 
 ## Journal Publications
+[A42] Picat M. Q., Pellegrin I., Bitard J., Wittkop L., Proust-Lima C., Liquet B., Moreau J. F., Bonnet F., Blanco P., Thiebaut R., Integrative analysis of immunological data to explore chronic immune activation in successfully treated HIV patients. Plos One (Accepted in December 2016).
 
 [A41] Proust-Lima C., Philipps V., Liquet B., Estimation of Extended Mixed Models Using Latent Classes and Latent Processes: the R package lcmm. Journal of Statistical Software (Accepted in 2016).
 
-[A40] Liquet B., and Saracco J., BIG-SIR a Sliced Inverse Regression Approach for Massive Data. Statistics and Its Interface. (2016) In press.
+[A40]  Delorme P., Lafaye de Micheaux P., Liquet B. and Riou J., Type-II Generalized Family-Wise Error Rate Formulas with Application to Sample Size Determination.  Statistics in Medicine 35,1 (2016).
 
-[A39]  Delorme P., Lafaye de Micheaux P., Liquet B. and Riou J., Type-II Generalized Family-Wise Error Rate Formulas with Application to Sample Size Determination.  Statistics in Medicine (2016) In press.
+[A39] Liquet B., and Saracco J., BIG-SIR a Sliced Inverse Regression Approach for Massive Data. Statistics and Its Interface. 9, 4 (2016).
 
-[A38] Liquet B., Bottolo L., Campanella G., Richardson S. and Chadeau-Hyam M., R2GUESS: GPU-based R package for Bayesian variable selection regression of multivariate responses. Journal of Statistical Software Vol 69, Issue 2, (2016).
+[A38] Liquet B., Lafaye de Micheaux P, Hejblum B., Thiebaut R., Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context. Bioinformatics 32:1, 35-42 (2016).
 
-[A37] Liquet B., Lafaye de Micheaux P, Hejblum B., Thiebaut R., Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context. Bioinformatics 32:1, 35-42 (2016).
+[A37] Benham T., Duan Q., Kroese D.P., Liquet B., CEoptim: Cross-Entropy R package for optimization. Journal of Statistical Software (Accepted in 2016).
 
-[A36] Benham T., Duan Q., Kroese D.P., Liquet B., CEoptim: Cross-Entropy R package for optimization. Journal of Statistical Software (Accepted in 2015).
+[A36] Chong H., Cordeaux Y., Froen F., Richardson S., Liquet B., Charnock-Jones S. and Smith G. C., Age-related changes in murine myometrial transcript profile are mediated by exposure to the female sex hormones. Aging Cell 15, 1 (2016).
 
-[A35] Chong H., Cordeaux Y., Froen F., Richardson S., Liquet B., Charnock-Jones S. and Smith G. C., Age-related changes in murine myometrial transcript profile are mediated by exposure to the female sex hormones. Aging Cell (2015).
+[A35] Liquet B., Bottolo L., Campanella G., Richardson S. and Chadeau-Hyam M., R2GUESS: GPU-based R package for Bayesian variable selection regression of multivariate responses. Journal of Statistical Software Vol 69, Issue 2, (2016).
 
 [A34] Liquet B., and Nazarathy Y.,  A dynamic view to moment matching of truncated
 distributions.  Statistics and Probability Letters 104 87-93 (2015).
@@ -110,11 +111,31 @@ distributions.  Statistics and Probability Letters 104 87-93 (2015).
 
 ## Other publication: articles submitted or in revision
 
-[S2] Gonzalez I., Liquet B., Dejean S. and Le Cao K., Omics Data Integration and Exploration with the mixOmics Package. Submitted.
+[S1] Smith G. C, Froen F., Richardson S., Liquet B., Chong H., Charnock-Jones S. and Chong H. P., Age at menarche and the risk of operative delivery. Revision in Paediatric and Perinatal Epidemiology.
 
-[S1] Chong H., Cordeaux Y., Froen F., Richardson S., Liquet B., Charnock-Jones S. and Smith G. C., Uterine aging and exposure to female sex hormones. In minor revision.
+[S2] B. Liquet, K. Mengersen,  A. N. Pettitt,  and M. Sutton. Bayesian Variable Selection Regression Of Multivariate Responses For Group Data. Submitted.
 
-## Invited conferences
+## Invited conferences/Lectures
+
+[IV15] 2016 (December), Lafaye de Micheaux P., Liquet B. and **Riou J.**, ``Type-II generalized family-wise error rate formulas with application to sample size determination'', 9th International Conference of the ERCIM (European Research Consortium for Informatics and Mathematics) Spain.
+
+[IV14]  2016 (December), ``Bayesian Variable Selection Regression Of
+Multivariate Responses For Group Data'', Invited to the Big Bayes Session at the Australian Statistical Conference.
+
+[IV13] 2016 (December), ``Statistical Methods For Analysing High-Dimensional Data and Massive Data'', International Conference on Mathematics : Education, Theory, and Application (ICMETA). Universitas Sebelas Maret (Indonesia). 
+
+[IV12] 2016 (December), Two invited lectures: ``A
+tutorial for penalized regression models'' and ``A tutorial for PLS and Bayesian Variable Selection''. Short course on ``Stat-XP: statistics to analyse OMICs data and characterise the exposome'', organized Imperial College London, England.
+
+[IV11] 2016 (December) **Sutton M.**, Liquet B., and Thiêbaut R. ``Sparse Group Subgroup PLS for Genomics''. International Symposium for Big Data Visualisation Analytics (BDVA) Sydney.
+
+[IV10] 2016 (October) **Lafaye de Micheaux P.**, Liquet B. and Sutton M., ``A Unified Regularized Group PLS Algorithm Scalable to Big Data'',  journ\'ee STAtistique de Rennes (jSTAR), 13rd edition on Big Data, Rennes, France.
+
+[IV9] 2016 (July) Dimension Reduction approaches for BIG-DATA. Workshop on Big-Data organized by ACEMS at  Queensland University of Technology.
+
+[IV8] 2016 (February) Statistical Methods for Analysising High-dimensional Data
+and Massive Data. Lecture at the University of Melbourne.
+
 
 [IV7] 2015 (December), Multivariate approaches: Dimension reduction for big data sets. Short course on "Statistical approaches to characterize the exposome: Overview and Perspective'', organized Imperial College London, England.
 
@@ -130,11 +151,22 @@ distributions.  Statistics and Probability Letters 104 87-93 (2015).
 
 [IV1] 2009 (October), Choix d’estimateurs basés sur des observations différentes. GDR “Statistique et Santé”, Université Paris-Descartes.
 
-## Invited seminar (2011-2015)
+## Invited seminar (2011-2016)
 
-[IS22] 2016 (February) Statistical Methods for analysing High-dimensional data and Massive Data. ACEMS Seminar, Melbourne.
+[IS26] 2016 (November) A Unified Regularized Group PLS Algorithm
+Scalable to Big Data. ISG (Intelligent Systems Group) seminar at UPV/EHU University (Spain).
 
-[IS21] 2016 (February) Type-II Generalized Family-Wise Error Rate Formulas with Application to Sample Size Determination. Victorian Centre For Biostatistics Seminar, Melbourne.
+[IS25] 2016 (November) Type-II Generalized Family-Wise Error Rate Formulas with Application to Sample Size Determination. LMAP seminar, Universit\'e de Pau et Pays de l'Adour.
+
+[IS24] 2016 (October) Bayesian Variable Selection Regression Of
+Multivariate Responses For Group Data. Seminar at the OMMAS team from the IMB (Institute Mathe\'emetics de Bordeaux) University of Bordeaux.
+
+[IS23] 2016 (August) BIG-SIR a Sliced Inverse Regression Approach for Massive Data. Seminar at the Centre for Statistics from The University of Queensland.
+
+[IS22] 2016 (May) BIG-SIR a Sliced Inverse Regression Approach
+for Massive Data. LMAP, Universit\'e de Pau et Pays de l'Adour.
+
+[IS21]2016 (February) Type-II Generalized Family-Wise Error Rate Formulas with Application to Sample Size Determination. Victorian Centre For Biostatistics Seminar, Melbourne.
 
 [IS20]  2016 (February) Semi-parametric regression approach for massive data. Maths seminar series at Queensland University of Technology.
 
@@ -176,11 +208,15 @@ distributions.  Statistics and Probability Letters 104 87-93 (2015).
 
 [IS1] 2011 (September) On Akaike and likelihood cross-validation criteria for model selection. Department of Biostatistics. University of Copenhagen.
 
-## International and national communications, proceeding (2007-2014)
+## International and national communications, proceeding (2007-2016)
 
-[CO28] Liquet B., Bayesian Variable selection regression of multivariate responses for group data, ISBA 2016 World Meeting International Society for Bayesian Analysis,  Sardinia (Italy) June 2016.
+[CO30] Liquet B., Bayesian Variable selection regression of multivariate responses for group data, ISBA 2016 World Meeting International Society for Bayesian Analysis, Sardinia (Italy) June 2016.
 
-[CO27] Liquet B., Lafaye de Micheaux P, Hejblum B., Thiebaut R., Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context., The R User Conference 2016,  Stanford, California (US), June 2016.
+[CO29] Liquet B., Statistical Methods for the Analysis of High-dimensional Data and Massive Data, Workshop on Computational and Mathematical Foundations for Big Data Analytics, QUT, Australia (July 2016).
+
+[CO28] Liquet B., Lafaye de Micheaux P, Hejblum B., Thiebaut R., Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context., The R User Conference 2016, Stanford, California (US), June 2016.
+
+[CO27] Liquet B., Lafaye de Micheaux P, Hejblum B., Thiebaut R., Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context., Les cinqui\`emes Rencontres R, Toulouse, France, June 2016.
 
 [CO26] Liquet B., and Saracco J., BIG-SIR a Sliced Inverse Regression Approach for Massive Data, Quatri\`emes rencontres R, Grenoble (France), June 2015.
 
