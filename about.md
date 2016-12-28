@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Fill this out with markdown text
+When I will get some power I put some personel stuff ...
