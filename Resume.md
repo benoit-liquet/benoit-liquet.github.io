@@ -3,4 +3,5 @@ layout: page
 title: Resume
 ---
 
-Fill this out with markdown text
+Please find my resume here [**Resume.pdf**](https://github.com/benoit-liquet/Resume/Resume_benoit_liquet_2016_DEC.pdf)
+ 
