@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<img src="https://github.com/benoit-liquet/benoit-liquet.github.io/blob/master/Resume/benoit.png" alt="Ben">
+<img src="https://benoit-liquet.github.io/Resume/benoit.png" alt="Ben">
 
 
 # Position
