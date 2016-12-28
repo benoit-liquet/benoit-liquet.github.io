@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<img src="https://sites.google.com/site/benoitliquet/_/rsrc/1390978849813/home/P1020486.JPG" alt="R conf Anglet">
+<img src="https://github.com/benoit-liquet/benoit-liquet.github.io/blob/master/Resume/benoit.png" alt="Ben">
 
 
 # Position
