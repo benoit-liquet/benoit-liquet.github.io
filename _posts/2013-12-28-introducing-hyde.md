@@ -4,7 +4,6 @@ title: NEW WEB SITE
 ---
 
 
-
 # Position
 - Professor at University of Pau and Pays de l'Adour
 - Member of the LABORATORY OF MATHEMATICS AND THEIR APPLICATIONS OF PAU - UMR CNRS 5142 
