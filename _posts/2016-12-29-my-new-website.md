@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NEW WEB SITE
+title: My new website
 ---
 
 
