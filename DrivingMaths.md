@@ -19,7 +19,7 @@ Eh bien, c'est l'astuce. Vous pouvez même utiliser cette règle récursivement 
 
 $$1 + 3 + 8 + 2 + 7 + 6 + 5 + 2 + 4 + 1 = 39.$$
 
-Et ceci traduit la nouvelle question: "39 est-il divisible par 3"? Eh bien, vous voyez probablement immédiatement que oui, mais pour répondre à cela, vous pouvez également regarder 3 + 9 = 12. Et ensuite pour voir si 12 est divisible par 3, vous pouvez même regarder 1 + 2 = 3 et donc oui il est divisible par 3. Donc puisque 3 est divisible par 3, 12 est divisible par 3 et donc 39 est divisible par 3 et donc la population chinoise (estimation de cet instant exact) est divisible par 3. Cette récursion est plus un exercice académique, parce que vous avez déjà vu que $39 = 3 \times 13$ est divisible par 3.
+Et ceci traduit la nouvelle question: "39 est-il divisible par 3"? Eh bien, vous voyez probablement immédiatement que oui, mais pour répondre à cela, vous pouvez également regarder 3 + 9 = 12. Et ensuite pour voir si 12 est divisible par 3, vous pouvez même regarder 1 + 2 = 3 et donc oui il est divisible par 3. Donc puisque 3 est divisible par 3, 12 est divisible par 3 et donc 39 est divisible par 3 et donc la population chinoise (estimation de cet instant exact) est divisible par 3. Cette récursion est plus un exercice académique, parce que vous avez déjà vu que \\(39 = 3 \times 13\\) est divisible par 3.
 
 Ok, donc c'était l'"astuce", une "astuce mathématique". Mais franchement, nous les mathématiciens sont souvent lassés d'utiliser le mot "astuce" parce que nous aimons comprendre la signification profonde derrière les choses. En fait, nous aimerions souvent voir une preuve que cette astuce fonctionne réellement pour n'importe quel nombre. Bien sûr, nous pouvons vérifier cela sur avec le nombre 264, le nombre 301 et la population chinoise, mais comment savoir que cette règle fonctionne toujours?
 
@@ -27,7 +27,7 @@ Voici donc une explication simple: reprenons le nombre 264 comme exemple.
 
 $$264 = 2 \times 100 + 6 \times 10 + 4.$$
 
-Vrai? Ceci est connu pour être l'écriture du nombre 264 en base 10. Cela peut aussi être fait pour la population chinoise, où le terme principal serait, $1 \times 10^9$ (qui se lit comme "10 à la puissance 9", soit un milliard), le deuxième terme est $3\times 10^8$, le troisième terme est $8 \times 10^7$ et ainsi de suite.
+Vrai? Ceci est connu pour être l'écriture du nombre 264 en base 10. Cela peut aussi être fait pour la population chinoise, où le terme principal serait, \\(1 \times 10^9\\) (qui se lit comme "10 à la puissance 9", soit un milliard), le deuxième terme est \\(3\times 10^8\\), le troisième terme est \\(8 \times 10^7\\) et ainsi de suite.
 
 Pour en revenir à l'exemple 264, nous pouvons maintenant représenter 100 comme 99 + 1 et 10 comme 9 + 1 donc,
 
@@ -37,7 +37,7 @@ Maintenant vient le fait que $2 \times (99 + 1) = 2 \times 99 + 2 \times 1$. Cet
 
 $$A \times (B + C) = A \times B + A \times C,$$
 
-où nous remarquons que l'ordre des opérations est d'effectuer d'abord $A \times B$ et $A \times C$ et seulement plus tard nous additionnons  ces  deux termes. Par conséquent,
+où nous remarquons que l'ordre des opérations est d'effectuer d'abord \\(A \times B\\) et \\(A \times C\\) et seulement plus tard nous additionnons  ces  deux termes. Par conséquent,
 
 $$264 = 2 \times 99 + 2 + 6 \times 9 + 6 + 4.$$
 
@@ -49,7 +49,7 @@ Maintenant, observer que la dernière partie ci-dessus, (2 + 6 + 4), est en fait
 
 $$264 = 2 \times 99 + 6 \times 9 + \textrm{somme des chiffres}.$$
 
-Les termes $2 \times 99$ et $6 \times 9$ sont toujours divisibles par 3, car 99 et 9 sont toujours divisibles par 3. Supposons maintenant que la somme des chiffres soit divisible par 3 (comme c'est le cas pour 2 + 6 + 4). Alors tous les termes du côté droit sont divisibles par 3 et alors 264 est divisible par 3. C'est pourquoi la règle a fonctionné pour 264.
+Les termes \\(2 \times 99\\) et \\(6 \times 9\\) sont toujours divisibles par 3, car 99 et 9 sont toujours divisibles par 3. Supposons maintenant que la somme des chiffres soit divisible par 3 (comme c'est le cas pour 2 + 6 + 4). Alors tous les termes du côté droit sont divisibles par 3 et alors 264 est divisible par 3. C'est pourquoi la règle a fonctionné pour 264.
 
 Essayons cela au nombre de 2324.
 \begin{eqnarray*}
@@ -57,7 +57,7 @@ Essayons cela au nombre de 2324.
        &=& 2 \times 999 + 3 \times 99 + 2 \times 9 + \textrm{somme des chiffres}
 \end{eqnarray*}
 
-La somme des chiffres est alors 2 + 3 + 2 + 4 = 11 et n'est pas divisible par 3. Mais la première partie, $2 \times 999 + 3 \times 99 + 2 \times 9$ est divisible par 3. Donc cela signifie que,
+La somme des chiffres est alors 2 + 3 + 2 + 4 = 11 et n'est pas divisible par 3. Mais la première partie, \\(2 \times 999 + 3 \times 99 + 2 \times 9\\) est divisible par 3. Donc cela signifie que,
 
 $$2324 = \textrm{quelque chose divisible par 3 + quelque chose non divisible par 3}.$$
 
