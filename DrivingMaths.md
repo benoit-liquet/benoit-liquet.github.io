@@ -5,7 +5,7 @@ title: DRIVING CURIOSITY IN MATHS
 
 ## Divisible par 3
 
-*This post is a translation and adaptation of the great [**blog**](http://www.oneonepsilon.com/single-post/2017/01/15/Divide-by-Three) of my friend **Yoni Nazarathy***
+*This post is a translation and adaptation of the great [**blog**](http://www.oneonepsilon.com/single-post/2017/01/15/Divide-by-Three) of my friend* **Yoni Nazarathy**
 
 Je suis le père (cela arrivera peut être un jour..) de 3 enfants, donc pour moi, la division par trois fait partie intégrante de ma vie. Un sac de 12 ballons d'eau est divisible par trois. Un sac de 30 fonctionne aussi bien. Mais avec un paquet de 16 il vous restera 1 ballon et vous serez face à un dilemme pour l'attribuer à celui qui le mérite.
 
@@ -13,7 +13,7 @@ Pour les parents avec 2 enfants, les choses sont généralement plus simples. Le
 
 Eh bien, il y a de bonnes chances que votre enfant ai appris cela à l'école. Peut-être même vous souvenez-vous de cette ``astuce'' de l'époque. Il va comme suit : **Additionner les chiffres individuels du nombre et vérifier si la somme des chiffres est divisible par trois. Si la somme des chiffres est divisible par 3, alors le nombre d'origine est aussi divisible par 3**. Sinon, ce n'est pas le cas. L'astuce fonctionne également pour 9, mais nous allons nous concentrer sur 3 ici. Neuf enfants avec des balons d'eau - trop compliqué à gérer!
 
-Voici un exemple: prenez 264. La somme des chiffres est 2 + 6 + 4 = 12. Maintenant, 12 est divisible par 3 et cela implique que 264 est divisible par 3. En fait, $264 = 88 \times 3$. De même, essayer avec 301. La somme des chiffres est $3 + 0 + 1 = 4$. Ce n'est pas divisible par 3 et donc ni 301. Essayez de le diviser par 3 et vous obtiendrez un nombre non entier ou un reste.
+Voici un exemple: prenez 264. La somme des chiffres est 2 + 6 + 4 = 12. Maintenant, 12 est divisible par 3 et cela implique que 264 est divisible par 3. En fait, \\(264 = 88 \times 3\\). De même, essayer avec 301. La somme des chiffres est \\(3 + 0 + 1 = 4\\). Ce n'est pas divisible par 3 et donc ni 301. Essayez de le diviser par 3 et vous obtiendrez un nombre non entier ou un reste.
 
 Eh bien, c'est l'astuce. Vous pouvez même utiliser cette règle récursivement si vous le souhaitez. Par exemple, le 15 janvier 2017 (heure de Pékin), la population chinoise était estimée à 1 382 765 241 (près de 1,4 milliard de personnes). Est-ce que ce nombre exact est divisible par 3? Eh bien la somme des chiffres est,
 
