@@ -52,10 +52,8 @@ $$264 = 2 \times 99 + 6 \times 9 + \textrm{somme des chiffres}.$$
 Les termes \\(2 \times 99\\) et \\(6 \times 9\\) sont toujours divisibles par 3, car 99 et 9 sont toujours divisibles par 3. Supposons maintenant que la somme des chiffres soit divisible par 3 (comme c'est le cas pour 2 + 6 + 4). Alors tous les termes du côté droit sont divisibles par 3 et alors 264 est divisible par 3. C'est pourquoi la règle a fonctionné pour 264.
 
 Essayons cela au nombre de 2324.
-\\\begin{equation*}
-2324 &=& 2 \times (999 + 1) + 3 \times (99 + 1) + 2 \times (9 + 1) + 4\\
-       &=& 2 \times 999 + 3 \times 99 + 2 \times 9 + \textrm{somme des chiffres}
-\\\end{equation*}
+
+$$2324 = 2 \times (999 + 1) + 3 \times (99 + 1) + 2 \times (9 + 1) + 4= 2 \times 999 + 3 \times 99 + 2 \times 9 + \textrm{somme des chiffres}$$
 
 La somme des chiffres est alors 2 + 3 + 2 + 4 = 11 et n'est pas divisible par 3. Mais la première partie, \\(2 \times 999 + 3 \times 99 + 2 \times 9\\) est divisible par 3. Donc cela signifie que,
 
