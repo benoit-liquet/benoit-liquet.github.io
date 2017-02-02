@@ -53,7 +53,8 @@ Les termes \\(2 \times 99\\) et \\(6 \times 9\\) sont toujours divisibles par 3,
 
 Essayons cela au nombre de 2324.
 
-$$2324 = 2 \times (999 + 1) + 3 \times (99 + 1) + 2 \times (9 + 1) + 4= 2 \times 999 + 3 \times 99 + 2 \times 9 + \textrm{somme des chiffres}$$
+$$2324 = 2 \times (999 + 1) + 3 \times (99 + 1) + 2 \times (9 + 1) + 4,$$ qui peut s'exprimer par 
+$$2324= 2 \times 999 + 3 \times 99 + 2 \times 9 + \textrm{somme des chiffres}$$
 
 La somme des chiffres est alors 2 + 3 + 2 + 4 = 11 et n'est pas divisible par 3. Mais la première partie, \\(2 \times 999 + 3 \times 99 + 2 \times 9\\) est divisible par 3. Donc cela signifie que,
 
