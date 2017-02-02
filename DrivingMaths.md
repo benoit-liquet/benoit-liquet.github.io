@@ -5,7 +5,7 @@ title: DRIVING CURIOSITY IN MATHS
 
 ## Divisible par 3
 
-*This post is a translation and adaptation of [** One on Epsilon’s blog**](http://www.oneonepsilon.com/single-post/2017/01/15/Divide-by-Three)
+*This post is a translation and adaptation of* [**One on Epsilon’s blog**](http://www.oneonepsilon.com/single-post/2017/01/15/Divide-by-Three)
 
 Je suis le père (cela arrivera peut être un jour..) de 3 enfants, donc pour moi, la division par trois fait partie intégrante de ma vie. Un sac de 12 ballons d'eau est divisible par trois. Un sac de 30 fonctionne aussi bien. Mais avec un paquet de 16 il vous restera 1 ballon et vous serez face à un dilemme pour l'attribuer à celui qui le mérite.
 
