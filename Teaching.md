@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 ---
 
+## July - 2017 **R Workshop: SIAME** at *Pau et Pays de l'Adour* (Anglet Campus)
+
+Please find documents for the workshop here [**Workshop material**](https://github.com/benoit-liquet/benoit-liquet.github.io/blob/master/Resume/FORMATION-ANGLET.zip)
+
 ## 2015 - 2017 **Professor** at *Pau et Pays de l'Adour* (Anglet Campus)
 
 - Coordinator/Instructor of the course _Biostatistics 1_. L2 (undergraduate second year students).
