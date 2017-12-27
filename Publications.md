@@ -4,55 +4,65 @@ title: Publications
 ---
 
 ## Journal Publications
-[A42] Picat M. Q., Pellegrin I., Bitard J., Wittkop L., Proust-Lima C., Liquet B., Moreau J. F., Bonnet F., Blanco P., Thiebaut R., Integrative analysis of immunological data to explore chronic immune activation in successfully treated HIV patients. Plos One (Accepted in December 2016).
 
-[A41] Proust-Lima C., Philipps V., Liquet B., Estimation of Extended Mixed Models Using Latent Classes and Latent Processes: the R package lcmm. Journal of Statistical Software (Accepted in 2016).
+[A45] Liquet B., K. Mengersen,  A. N. Pettitt,  and M. Sutton. Bayesian Variable Selection Regression Of Multivariate Responses For Group Data. Bayesian Analysis 12, 4 (2017).
 
-[A40]  Delorme P., Lafaye de Micheaux P., Liquet B. and Riou J., Type-II Generalized Family-Wise Error Rate Formulas with Application to Sample Size Determination.  Statistics in Medicine 35,1 (2016).
+[A44] H. P. Chong,  Froen F., Richardson S., Liquet B., S. Charnock-Jones and Smith G. C, Age at menarche and the risk of operative delivery. The Journal of Maternal-Fetal \& Neonatal Medicine 28:1-8 (2017).
 
-[A39] Liquet B., and Saracco J., BIG-SIR a Sliced Inverse Regression Approach for Massive Data. Statistics and Its Interface. 9, 4 (2016).
+[A43] Picat M. Q., Pellegrin I., Bitard J., Wittkop L., Proust-Lima C., Liquet B., Moreau J. F., Bonnet F., Blanco P., Thiebaut R., Integrative analysis of immunological data to explore chronic immune activation in successfully treated HIV patients. Plos One. 12(1): e0169164 (2017).
 
-[A38] Liquet B., Lafaye de Micheaux P, Hejblum B., Thiebaut R., Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context. Bioinformatics 32:1, 35-42 (2016).
+[A42] Proust-Lima C., Philipps V., Liquet B., Estimation of Extended Mixed Models Using Latent Classes and Latent Processes: the R package lcmm. Journal of Statistical Software 78 (2017).
 
-[A37] Benham T., Duan Q., Kroese D.P., Liquet B., CEoptim: Cross-Entropy R package for optimization. Journal of Statistical Software (Accepted in 2016).
 
-[A36] Chong H., Cordeaux Y., Froen F., Richardson S., Liquet B., Charnock-Jones S. and Smith G. C., Age-related changes in murine myometrial transcript profile are mediated by exposure to the female sex hormones. Aging Cell 15, 1 (2016).
+[A41] Benham T., Duan Q., Kroese D.P., Liquet B., CEoptim: Cross-Entropy R package for optimization. Journal of Statistical Software 76, 8 (2017).
 
-[A35] Liquet B., Bottolo L., Campanella G., Richardson S. and Chadeau-Hyam M., R2GUESS: GPU-based R package for Bayesian variable selection regression of multivariate responses. Journal of Statistical Software Vol 69, Issue 2, (2016).
+[A40] Liquet B., and Saracco J., BIG-SIR a Sliced Inverse Regression Approach for Massive Data. Statistics and Its Interface. 9, 4 (2016).
 
-[A34] Liquet B., and Nazarathy Y.,  A dynamic view to moment matching of truncated
-distributions.  Statistics and Probability Letters 104 87-93 (2015).
+[A39] Liquet B., Lafaye de Micheaux P, Hejblum B., Thiebaut R., Group and Sparse Group Partial Least Square Approaches Applied in Genomics Context. Bioinformatics 32:1, 35-42 (2016).
 
-[A33]  Commenges D., Proust-Lima C., Samieri C., and Liquet B., A universal approximate cross-validation criterion and its asymptotic distribution. The International Journal of Biostatistics (Accepted February 2015).
 
-[A32] Truong T., Liquet B., Menegaux F., Plancoulaine S., Laurent-Puig P., Mulot C., Cordina-Duverger E., Sanchez M., Arveux P., Kerbrat P., Richardson S., Guénel P., Breast cancer risk, nightwork, and circadian clock gene polymorphisms. Endocr Relat Cancer 21:4, 629-38 (2014).
+[A38] Chong H., Cordeaux Y., Froen F., Richardson S., Liquet B., Charnock-Jones S. and Smith G. C., Age-related changes in murine myometrial transcript profile are mediated by exposure to the female sex hormones. Aging Cell 15, 1 (2016).
 
-[A31] Chavent M., Girard S., Kuentz V., Liquet B., Nguyen T. M. N., Saracco J., A sliced inverse regression approach for data stream. Computational Statistics 29:5, 1129-1152 (2014)
 
-[A30] Coudret R., Liquet B., Saracco J., Comparison of sliced inverse regression approaches for underde- termined cases. Journal de la Société Française de Statistique Vol 155:2 (2014).
+[A37]  Delorme P., Lafaye de Micheaux P., Liquet B. and Riou J., Type-II Generalized Family-Wise Error Rate Formulas with Application to Sample Size Determination.  Statistics in Medicine 35,1 (2016).
 
-[A29] Lafaye de Micheaux P., Liquet B., Marques S. and Riou J., Power and sample size determination in clinical trials with multiple primary continuous correlated end points. Journal of Biopharmaceutical Statistics 24:2, 378-97, (2014).
+[A36] Liquet B., Bottolo L., Campanella G., Richardson S. and Chadeau-Hyam M., R2GUESS: GPU-based R package for Bayesian variable selection regression of multivariate responses. Journal of Statistical Software Vol 69, Issue 2, (2016).
 
-[A28] Bottolo L., Chadeau-Hyam M., Hastie D. I., Zeller T., Liquet B., Castagne R., Wild P. S., Schillert A., Munzel T., Tregouet D., Cambien F., Petretto E., Blankenberg S., Tiret L. and Richardson S., GUESS- ing polygenic associations with multiple phenotypes using a GPU-based Evolutionary Stochastic Search algorithm. Plos Genetics 9:8, (2013).
+[A35] Liquet B., and Nazarathy Y.,  A dynamic view to moment matching of truncated distributions.  Statistics and Probability Letters 104 87-93 (2015).
 
-[A27] Chadeau-Hyam M., Jombart T., Campanella G., Bottolo L., Vineis P., Liquet B., Vermeulen R., Deci- phering the complex: Methodological overview of statistical models to derive OMICS-based biomarkers. Environmental and Molecular Mutagenesis 54:7, 542-557, (2013).
-[A26] Liquet B., and Riou J., Correction of the significance level after multiple coding of an explanatory variable in generalized linear model. BMC Medical Research Methodology 13:75, (2013).
+[A34]  Commenges D., Proust-Lima C., Samieri C., and Liquet B., A universal approximate cross-validation criterion and its asymptotic distribution. The International Journal of Biostatistics 11:1, 51-67 (2015).
 
-[A25] Liquet B., Le Cao K., Hocini H., and Thiebaut R., A novel approach for biomarker selection and the integration of repeated measure experiments from two platforms. BMC, Bioinformatics 13:325, (2012).
+[A33] Truong T., Liquet B., Menegaux F., Plancoulaine S., Laurent-Puig P., Mulot C., Cordina-Duverger E., Sanchez M., Arveux P., Kerbrat P., Richardson S., Guénel P., Breast cancer risk, nightwork, and circadian clock gene polymorphisms. Endocr Relat Cancer 21:4, 629-38 (2014).
 
-[A24] Liquet B., Rondeau V., and Timsit J. F., Investigating hospital heterogeneity with a multi-state frailty model: application to nosocomial pneumonia disease in intensive care units. BMC Medical Research Methodology 12:79, (2012).
+[A32] Chavent M., Girard S., Kuentz V., Liquet B., Nguyen T. M. N., Saracco J., A sliced inverse regression approach for data stream. Computational Statistics 29:5, 1129-1152 (2014)
 
-[A23] Coeurjolly J.F., Makao M., Timsit J.F. and Liquet B., Attributable risk estimation for adjusted disability multistate models: application to nosocomial infections. Biometrical Journal 54:5, 600-616, (2012).
+[A31] Coudret R., Liquet B., Saracco J., Comparison of sliced inverse regression approaches for underde- termined cases. Journal de la Société Française de Statistique Vol 155:2 (2014).
 
-[A22] Chavent M., Kuentz V., Liquet B., and Saracco J., ClustOfVar: An R Package for the Clustering of Variables. Journal of Statistical Software 50:13, 1-16, (2012).
+[A30] Lafaye de Micheaux P., Liquet B., Marques S. and Riou J., Power and sample size determination in clinical trials with multiple primary continuous correlated end points. Journal of Biopharmaceutical Statistics 24:2, 378-97, (2014).
 
-[A21] Josse J., Chavent M., Liquet B., and Husson F., Handling missing values with Regularized Iterative Multiple Correspondence Analysis. Journal of Classification 29:1, 91-116, (2012).
+[A29] Bottolo L., Chadeau-Hyam M., Hastie D. I., Zeller T., Liquet B., Castagne R., Wild P. S., Schillert A., Munzel T., Tregouet D., Cambien F., Petretto E., Blankenberg S., Tiret L. and Richardson S., GUESS- ing polygenic associations with multiple phenotypes using a GPU-based Evolutionary Stochastic Search algorithm. Plos Genetics 9:8, (2013).
 
-[A20] Commenges D., Liquet B. and Proust-Lima C., Choice of prognostic estimators by estimating difference of expected conditional Kullback-Leibler risks. Biometrics 68:2, 380-387, (2012).
+[A28] Chadeau-Hyam M., Jombart T., Campanella G., Bottolo L., Vineis P., Liquet B., Vermeulen R., Deci- phering the complex: Methodological overview of statistical models to derive OMICS-based biomarkers. Environmental and Molecular Mutagenesis 54:7, 542-557, (2013).
 
-[A19] Liquet B. and Saracco, J., A graphical tool for selecting the number of slices and the dimension of the model in SIR and SAVE approaches. Computational Statistics 27:1, 103-125, (2012).
+[A27] Liquet B., and Riou J., Correction of the significance level after multiple coding of an explanatory variable in generalized linear model. BMC Medical Research Methodology 13:75, (2013).
 
-[A18] Chavent M., Kuentz V., Liquet B. and Saracco J., A sliced inverse regression approach for a stratified population. Communications in Statistics - Theory and Methods 40:21, (2011).
+[A26] Liquet B., Le Cao K., Hocini H., and Thiebaut R., A novel approach for biomarker selection and the integration of repeated measure experiments from two platforms. BMC, Bioinformatics 13:325, (2012).
+
+[A25] Liquet B., Rondeau V., and Timsit J. F., Investigating hospital heterogeneity with a multi-state frailty model: application to nosocomial pneumonia disease in intensive care units. BMC Medical Research Methodology 12:79, (2012).
+
+[A24] Coeurjolly J.F., Makao M., Timsit J.F. and Liquet B., Attributable risk estimation for adjusted disability multistate models: application to nosocomial infections. Biometrical Journal 54:5, 600-616, (2012).
+
+[A23] Chavent M., Kuentz V., Liquet B., and Saracco J., ClustOfVar: An R Package for the Clustering of Variables. Journal of Statistical Software 50:13, 1-16, (2012).
+
+[A22] Josse J., Chavent M., Liquet B., and Husson F., Handling missing values with Regularized Iterative Multiple Correspondence Analysis. Journal of Classification 29:1, 91-116, (2012).
+
+[A21] Commenges D., Liquet B. and Proust-Lima C., Choice of prognostic estimators by estimating difference of expected conditional Kullback-Leibler risks. Biometrics 68:2, 380-387, (2012).
+
+[A20] Liquet B. and Saracco, J., A graphical tool for selecting the number of slices and the dimension of the model in SIR and SAVE approaches. Computational Statistics 27:1, 103-125, (2012).
+
+[A19] Chavent M., Kuentz V., Liquet B. and Saracco J., A sliced inverse regression approach for a stratified population. Communications in Statistics - Theory and Methods 40:21, (2011).
+
+[A18] Laboute E., Liquet B., Savalli L., Puig P., Trouve P., Influence of the type of knee brace on clinical postoperative evolution after anterior cruciate ligament reconstructions in competitive sportspeople. Journal de Traumatologie du Sport, 28: 3, 103-125, (2011)
 
 [A17] Liquet B. and Commenges D., Choice of estimators based on different observations : Modified AIC and LCV criteria. Scandinavian Journal of Statistics 38, 268-287, (2011).
 
