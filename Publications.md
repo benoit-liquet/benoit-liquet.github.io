@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+
+
+
+
 ## Journal Publications
 
 [A45] Liquet B., K. Mengersen,  A. N. Pettitt,  and M. Sutton. Bayesian Variable Selection Regression Of Multivariate Responses For Group Data. Bayesian Analysis 12, 4 (2017).
