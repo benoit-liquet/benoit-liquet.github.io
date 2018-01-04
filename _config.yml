@@ -13,7 +13,7 @@ title:            Benoit Liquet
 tagline:          'Statistician'
 description:      ''
 url:              benoit-liquet.github.io
-baseurl:          ../
+baseurl:          /
 
 author:
   name:           'Benoit Liquet'
