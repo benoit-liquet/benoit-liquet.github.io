@@ -3,6 +3,8 @@ layout: page
 title: Home
 ---
 
+# Benoit Liquet
+
 <img src="https://benoit-liquet.github.io/Resume/benoit.png" alt="Ben">
 
 
