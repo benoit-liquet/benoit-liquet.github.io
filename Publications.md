@@ -10,7 +10,7 @@ title: Publications
 ## Journal Publications 
 
 
-[A53]  B. Liquet} and J. Riou.  CPMCGLM: An R package for p-value adjustment when looking for an optimal transformation of a single explanatory variable in generalized linear models. BMC Medical Research Methodology In press (2019).
+[A53]  B. Liquet and J. Riou.  CPMCGLM: An R package for p-value adjustment when looking for an optimal transformation of a single explanatory variable in generalized linear models. BMC Medical Research Methodology In press (2019).
 
 [A52] C. Broc, B. Calvo and B. Liquet . Penalized Partial Least Square applied to structured data. Arabian Journal of Mathematics pp 1–16 (2019).
 
