@@ -124,13 +124,34 @@ Interaction analysis approaches.  Journal de la Societe Francaise de Statistique
 
 ## Publications: scholarly books
 
-[B4] Commenges D., Jacqmin-Gadda H.(eds), Alioum A., Joly P., Leffondre K., Liquet B., Proust-Lima C., Rondeau V., and Thiébaut R. Dynamical Biostatistical models, Series: Chapman & Hall/CRC Biostatistics Series, (2015).
+[O7] Lafaye de Micheaux P., Drouilhet R. and Liquet B. (2016). Perangkat Lukan R - Dasardasar
+Pemrograman dan Analisis Statistika. Statistika dan Pemrograman. (In Indonesian.)
 
-[B3] Commenges D., Jacqmin-Gadda H.(eds), Alioum A., Joly P., Leffondre K., Liquet B., Proust-Lima C., Rondeau V., and Thiébaut R. Modeles Biostatistiques pour l'Epidémiologie.  De Boeck Superieur, (2015)..
+[O6] Lafaye de Micheaux P., Drouilhet R., Liquet B., Pan D., Tang N. and Li Q. (2015),
+R: the textbook - Master the language & Perform statistical analyses, Higher Education Press (largest textbook publisher in China). (In Chinese.)
 
-[B2] Lafaye de Micheaux P., Drouilhet R., and Liquet B., Le logiciel R, Maîtriser le langage, Effectuer desanalyses statistiques. 565 pages. Springer, 2011.
+[O5] Commenges D.; Jacqmin-Gadda H.(eds); Alioum A.; Joly P.; Lefondre K.; Liquet B.;
+Proust-Lima C.; Rondeau V. & Thiebaut R. (2015) Dynamical Biostatistical models, Series:
+Chapman \& Hall/CRC Biostatistics Series
 
-[B1] Lafaye de Micheaux P., Drouilhet R., and Liquet B., The R software. Fundamentals of Programmingand Statistical Analysis, Springer, in press (accepted February 2013). Translation of [1] with additional chapters.
+[O4] Commenges D.; Jacqmin-Gadda H.(eds); Alioum A.; Joly P.; Lefondre K.; Liquet B.;
+Proust-Lima C.; Rondeau V. & Thiebaut R. (2015) Modeles Biostatistiques pour l'Epidemiologie.
+De Boeck Superieur
+
+[O3] Lafaye de Micheaux P., Drouilhet R. and Liquet B. (2014). Le logiciel R, Maitriser le
+langage - Effectuer des analyses (bio)statistiques", Springer, Collection: Statistique et probabilites
+appliquees, Vol. 1, 2nd Edition., 674 p., Broch~A, ISBN: 978-2-8178-0534-4. (In French.)
+
+[O2] Lafaye de Micheaux P., Drouilhet R. and Liquet B. (2014). The R software. Fundamentals
+of Programming and Statistical Analysis", Springer, Collection: Statistics and Computing, vol.
+40, 655 p., ISBN: 978-1-4614-9019-7.
+
+[O1] Lafaye de Micheaux P., Drouilhet R. and Liquet B. (2011). \Le logiciel R, Maitriser le langage
+- Effectuer des analyses statistiques", Springer - Collection: Statistique et probabilites appliquees,
+Vol. 1, 1st Edition., XVI, 527 p., Broche, ISBN: 978-2-8178-0114-8. (In French.) Nominated
+for the Roberval Prize.
+
+
 
 ## Publications: book sections
 
@@ -141,11 +162,6 @@ Interaction analysis approaches.  Journal de la Societe Francaise de Statistique
 [C1] Liquet B. and Commenges D., Selecting a semi-parametric estimator by the expected log-likelihood. In Probability, Statistics and Modelling in Public Health, Springer, 332-349, (2005).
 
 
-## Other publication: articles submitted or in revision
-
-[S1] Smith G. C, Froen F., Richardson S., Liquet B., Chong H., Charnock-Jones S. and Chong H. P., Age at menarche and the risk of operative delivery. Revision in Paediatric and Perinatal Epidemiology.
-
-[S2] B. Liquet, K. Mengersen,  A. N. Pettitt,  and M. Sutton. Bayesian Variable Selection Regression Of Multivariate Responses For Group Data. Submitted.
 
 ## Invited conferences/Lectures
 
