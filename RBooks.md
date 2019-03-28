@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R Books
+title: Books
 ---
 
 ## Publications: scholarly books on R
