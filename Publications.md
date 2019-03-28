@@ -131,11 +131,11 @@ Pemrograman dan Analisis Statistika. Statistika dan Pemrograman. (In Indonesian.
 R: the textbook - Master the language & Perform statistical analyses, Higher Education Press (largest textbook publisher in China). (In Chinese.)
 
 [O5] Commenges D.; Jacqmin-Gadda H.(eds); Alioum A.; Joly P.; Lefondre K.; Liquet B.;
-Proust-Lima C.; Rondeau V. & Thiebaut R. (2015) Dynamical Biostatistical models, Series:
+Proust-Lima C.; Rondeau V. & Thiebaut R. (2015) Dynamical Biostatistical models, Series:
 Chapman \& Hall/CRC Biostatistics Series
 
 [O4] Commenges D.; Jacqmin-Gadda H.(eds); Alioum A.; Joly P.; Lefondre K.; Liquet B.;
-Proust-Lima C.; Rondeau V. & Thiebaut R. (2015) Modeles Biostatistiques pour l'Epidemiologie.
+Proust-Lima C.; Rondeau V. & Thiebaut R. (2015) Modeles Biostatistiques pour l'Epidemiologie.
 De Boeck Superieur
 
 [O3] Lafaye de Micheaux P., Drouilhet R. and Liquet B. (2014). Le logiciel R, Maitriser le
@@ -146,8 +146,7 @@ appliquees, Vol. 1, 2nd Edition., 674 p., Broch~A, ISBN: 978-2-8178-0534-4. (In 
 of Programming and Statistical Analysis", Springer, Collection: Statistics and Computing, vol.
 40, 655 p., ISBN: 978-1-4614-9019-7.
 
-[O1] Lafaye de Micheaux P., Drouilhet R. and Liquet B. (2011). \Le logiciel R, Maitriser le langage
-- Effectuer des analyses statistiques", Springer - Collection: Statistique et probabilites appliquees,
+[O1] Lafaye de Micheaux P., Drouilhet R. and Liquet B. (2011). Le logiciel R, Maitriser le langage, Effectuer des analyses statistiques, Springer - Collection: Statistique et probabilites appliquees,
 Vol. 1, 1st Edition., XVI, 527 p., Broche, ISBN: 978-2-8178-0114-8. (In French.) Nominated
 for the Roberval Prize.
 
