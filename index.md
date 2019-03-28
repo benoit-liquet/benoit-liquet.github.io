@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: Home
 ---
 
 <img src="https://benoit-liquet.github.io/Resume/benoit.png" alt="Ben">
