@@ -18,7 +18,7 @@ baseurl:          /
 author:
   name:           'Benoit Liquet'
 
-paginate:         6
+paginate:         5
 
 # Custom vars
 version:          2.1.0
