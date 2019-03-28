@@ -7,7 +7,25 @@ title: Publications
 
 
 
-## Journal Publications TEST
+## Journal Publications 
+
+
+[A53]  B. Liquet} and J. Riou.  CPMCGLM: An R package for p-value adjustment when looking for an optimal transformation of a single explanatory variable in generalized linear models. BMC Medical Research Methodology In press (2019).
+
+[A52] C. Broc, B. Calvo and B. Liquet . Penalized Partial Least Square applied to structured data. Arabian Journal of Mathematics pp 1–16 (2019).
+
+[A51]  M. Sutton,  K. Mengersen,   and  B . Liquet.  Sparse Subspace Constrained Partial Least Squares. Statistical Computation and Simulation 1-15, (2018).
+
+[A50] D. Morichon, I. de Santiago, M. Delpey, T. Somdecoste, A. Callens,  B. Liquet , P. Liria. Assessment of flooding hazards at an engineered beach during extreme events : Biarritz, SW France.  Journal of Coastal Research 85, 801- 805 (2018) .
+
+[A49] C. Broc, M. Evangelou,  T. Truing,  and  {\bf B. Liquet}. Investigating Gene- and Pathway-environment
+Interaction analysis approaches.  Journal de la Societe Francaise de Statistique Vol. 159, 2 (2018).}
+
+[A48] M. Sutton, R. Thiebaut, and B. Liquet. Sparse partial least squares with group and subgroup structure. Statistics in Medicine 37(23), 3338 - 3356 (2018).
+
+[A47] P. Jain, B. Liquet, J. Vlaanderen, B. Bodinier, K. Van Veldhoven, M. Kogevinas, C. Villanueva, R.Vermeulen, P. Vineis, M. Chadeau-Hyam. A multivariate approach to investigate molecular effects of multiple exposures. Journal of Epidemiology \& Community Health} (2018).
+
+[A46] R. Vermeulen, F. Saberi Hosnijeh, B. Bodinier, L. Portengen, B. Liquet, et al. Prediagnostic blood immune markers, incidence and progression of B-cell lymphoma and multiple myeloma: univariate and functionally-informed multivariate analyses. International Journal of Cancer (2018).
 
 [A45] Liquet B., K. Mengersen,  A. N. Pettitt,  and M. Sutton. Bayesian Variable Selection Regression Of Multivariate Responses For Group Data. Bayesian Analysis 12, 4 (2017).
 
