@@ -9,7 +9,8 @@ title: Home
 
 
 # Position
-- Professor at University of Pau and Pays de l'Adour
+- [Professor at the School of Mathematical and Physical Scieneces at MQ](https://researchers.mq.edu.au/en/persons/benoit-liquet-weiland)
+- ``Detachement'' from the position of Professor at University of Pau and Pays de l'Adour
 - Member of the LABORATORY OF MATHEMATICS AND THEIR APPLICATIONS OF PAU - UMR CNRS 5142 
 
 # Postal Address
