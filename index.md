@@ -9,7 +9,7 @@ title: Home
 
 
 # Position
-- Professor at University of Pau and Pays de l'Adour
+- Professor at University of Pau and Pays de l'Adour ("detach" to Macquarie University)
 - Member of the LABORATORY OF MATHEMATICS AND THEIR APPLICATIONS OF PAU - UMR CNRS 5142 
 - Head of the team "Probability and Statistics" from LMAP
 
