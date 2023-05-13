@@ -9,7 +9,7 @@ title: Home
 
 
 # Position
-- Professor at University of Pau and Pays de l'Adour ("detach" to Macquarie University)
+- Professor at University of Pau and Pays de l'Adour ("detach" to Macquarie University https://researchers.mq.edu.au/en/persons/benoit-liquet-weiland)
 - Member of the LABORATORY OF MATHEMATICS AND THEIR APPLICATIONS OF PAU - UMR CNRS 5142 
 - Head of the team "Probability and Statistics" from LMAP
 
