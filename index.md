@@ -9,7 +9,7 @@ title: Home
 
 
 # Position
-- Professor at Macquarie University https://researchers.mq.edu.au/en/persons/benoit-liquet-weiland
+- [Professor at the School of Mathematical and Physical Sciences at MQ](https://researchers.mq.edu.au/en/persons/benoit-liquet-weiland)
 - School of Mathematical and Physical Sciences at MQ
 - "detach" from University of Pau and Pays de l'Adour 
 
