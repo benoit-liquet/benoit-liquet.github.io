@@ -15,7 +15,7 @@ title: Home
 # Contact 
 
 - Phone: +33 6 95 46 10 61 +61 4 80 229 808 
-- E-mail: benoit.liquet@univ-pau.fr
+- E-mail: benoit.liquet-weiland@mq.edu.au
 
 # Research Interests
 High dimensional data, Big data, Omics data, Model selection, Dimension reduction and semi-parametric model, Multi-state model and survival model, Multiple testing
