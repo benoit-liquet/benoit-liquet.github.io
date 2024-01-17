@@ -9,21 +9,12 @@ title: Home
 
 
 # Position
-- [Professor at the School of Mathematical and Physical Scieneces at MQ](https://researchers.mq.edu.au/en/persons/benoit-liquet-weiland)
+- [Professor at the School of Mathematical and Physical Sciences at MQ](https://researchers.mq.edu.au/en/persons/benoit-liquet-weiland)
 - ``Detachement'' from the position of Professor at University of Pau and Pays de l'Adour
-- Member of the LABORATORY OF MATHEMATICS AND THEIR APPLICATIONS OF PAU - UMR CNRS 5142 
-
-# Postal Address
-UFR Sciences et Techniques de la Cote Basque-Anglet
-
-Allée du Parc Montaury,
-
-64600 Anglet, France
 
 # Contact 
 
-- Located in Building: Bat 1, 2 Floor
-- Phone: +33 5 59 57 44 01
+- Phone: +33 6 95 46 10 61 +61 4 80 229 808 
 - E-mail: benoit.liquet@univ-pau.fr
 
 # Research Interests
